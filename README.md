@@ -3,7 +3,7 @@
 ##### 
 ####
 ```sh
-$ sudo curl -LJO https://raw.githubusercontent.com/dnaprawa/DockerOnUbuntu/master/docker.sh 
+$ sudo curl -LJO https://raw.githubusercontent.com/pawel-niedzwiecki/DockerOnDebian/main/dockerInstall.sh 
 $ sudo sh docker.sh
 ```
 
