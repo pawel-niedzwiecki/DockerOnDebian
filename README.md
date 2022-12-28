@@ -4,7 +4,7 @@
 ####
 ```sh
 $ sudo curl -LJO https://raw.githubusercontent.com/pawel-niedzwiecki/DockerOnDebian/main/dockerInstall.sh 
-$ sudo sh docker.sh
+$ sudo sh dockerInstall.sh
 ```
 
 ### If you encounter below error when trying to use docker commands, you will need to logout and log in again.
