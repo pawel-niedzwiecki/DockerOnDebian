@@ -3,7 +3,7 @@
 ##### 
 ####
 ```sh
-$ sudo curl -LJO https://raw.githubusercontent.com/pawel-niedzwiecki/DockerOnDebian/main/dockerInstall.sh
+$ sudo curl -LJO https://raw.githubusercontent.com/uxugroup/uxu-docker-on-debian/main/dockerInstall.sh
 $ sudo sh dockerInstall.sh
 ```
 
